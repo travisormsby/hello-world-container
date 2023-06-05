@@ -1,4 +1,4 @@
-tutum-hello-world
+Hello World Container
 ==================
 
 Sample docker image to test docker deployments
