@@ -2,7 +2,7 @@ tutum-hello-world
 ==================
 
 Sample docker image to test docker deployments
-Created from original tutum repo for Esri Training Services demonstrations.
+Forked from https://github.com/nieleyde/tutum-hello-world for Esri Training Services demonstrations and training.
 
 Usage
 -----
