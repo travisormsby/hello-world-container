@@ -1,4 +1,4 @@
-FROM alpine:2.7
+FROM alpine:3.1
 MAINTAINER t.ormsby@esri.com
 RUN apk --update add nginx php-fpm
 RUN mkdir -p /tmp/nginx && echo "clear_env = no" >> /etc/php/php-fpm.conf
